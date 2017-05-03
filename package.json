@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JPSauSara/Friend-Finder/issues"
   },
-  "homepage": "https://github.com/JPSauSara/Friend-Finder#readme"
+  "homepage": "https://github.com/JPSauSara/Friend-Finder#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
