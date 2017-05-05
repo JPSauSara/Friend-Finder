@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/JPSauSara/Friend-Finder#readme",
   "dependencies": {
-    "express": "^4.15.2"
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "path": "^0.12.7"
   }
 }
